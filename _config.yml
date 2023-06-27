@@ -1,10 +1,10 @@
-url: http://kirbyt.github.io
-baseurl: /timeline-jekyll-theme
+url: http://edicoitalia.github.io
+baseurl: /
 
 # Site Settings
 title: EDICO Italia
-description: "EDICO - L'Editor Scientifico per persone ipovedenti e non vedenti. Potente, versatile, gratuito!"
-keywords: "edico, braille, ipovedenti, matematica, ciechi, science, blind"
+description: "EDICO - l'Editor Scientifico per persone ipovedenti e non vedenti. Potente, Facile, Gratuito.\nProvalo subito!"
+keywords: "edico, matematica, scienze, ipovedenti, ciechi, ausili"
 google-tracking-id:
 
 # Career Settings
