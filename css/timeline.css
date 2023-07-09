@@ -1,3 +1,7 @@
+.myarticle>h2 {
+  text-align: center;
+}
+
 .timeline {
     position: relative;
     padding: 0;
