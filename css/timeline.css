@@ -1,4 +1,8 @@
 .myarticle {
+  text-align: left;
+}
+
+.myarticle>h2 {
   text-align: center;
 }
 
