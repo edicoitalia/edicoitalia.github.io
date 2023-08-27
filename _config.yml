@@ -11,4 +11,4 @@ google-tracking-id:
 # Default career thumbnail image.
 career-img: "img/timeline/default.jpg"
 
-exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+exclude: ["tutorial","Rakefile", "LICENSE", "readme.markdown"]
