@@ -31,7 +31,8 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
+  color: ##FFFFFF;
+  background-color: #000000
 }
 
 #skip-to-content {
@@ -108,7 +109,7 @@ a {
 .page-header {
   color: green;
   text-align: center;
-  background-image: url("../images/background.png");
+  background-image: url("../images/background.jpg");
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
 
