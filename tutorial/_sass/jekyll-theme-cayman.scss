@@ -119,9 +119,10 @@ a:focus {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat; /* Do not repeat the image */
   background-position: bottom;
+  background-size: cover; /* Resize the background image to cover the entire container */
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 4rem 5rem;
   }
 
   @include medium {
