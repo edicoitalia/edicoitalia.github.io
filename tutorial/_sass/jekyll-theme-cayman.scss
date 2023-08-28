@@ -115,9 +115,10 @@ a:focus {
 .page-header {
   color: #fff;
   text-align: center;
+  font-size: 18px;
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-position: bottom;
 
   @include large {
     padding: 5rem 6rem;
