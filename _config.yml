@@ -1,6 +1,6 @@
 url: http://edicoitalia.github.io
-plugins:
-  - jekyll-sitemap
+# plugins:
+#  - jekyll-sitemap
 
 baseurl: /
 
