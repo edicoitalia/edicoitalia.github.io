@@ -31,7 +31,8 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
+  color: #FFFFFF;
+  background-color: #000000
 }
 
 #skip-to-content {
@@ -53,12 +54,18 @@ body {
 }
 
 a {
-  color: $body-link-color;
-  text-decoration: none;
+    color: #fed136;
+    /* color: #219ab3; */
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
 
-  &:hover {
-    text-decoration: underline;
-  }
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #fec503;
+    /* color: #11505d; */
 }
 
 .btn {
@@ -106,14 +113,16 @@ a {
 }
 
 .page-header {
-  color: green;
+  color: #fff;
   text-align: center;
-  background-image: url("../images/background.png");
+  font-size: 18px;
+  background-image: url("../images/background.jpg");
   background-repeat: no-repeat; /* Do not repeat the image */
+  background-position: bottom;
   background-size: cover; /* Resize the background image to cover the entire container */
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 4rem 5rem;
   }
 
   @include medium {
@@ -215,9 +224,10 @@ a {
   h5,
   h6 {
     margin-top: 2rem;
+	text-align: center;
     margin-bottom: 1rem;
-    font-weight: normal;
-    color: $section-headings-color;
+    font-weight: 600;
+    color: #fff;
   }
 
   p {
