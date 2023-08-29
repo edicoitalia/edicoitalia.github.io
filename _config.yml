@@ -1,4 +1,7 @@
 url: http://edicoitalia.github.io
+plugins:
+  - jekyll-sitemap
+
 baseurl: /
 
 # Site Settings
