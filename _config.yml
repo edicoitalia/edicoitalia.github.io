@@ -1,12 +1,13 @@
 url: https://www.edicoitalia.it
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 
 baseurl: /
 
 # Site Settings
-title: EDICO Italia
+title: EDICO Italia, tutto sull'editor scientifico più completo per disabili visivi
 description: "EDICO - l'Editor Scientifico per persone ipovedenti e non vedenti. Potente, Facile, Gratuito.\nProvalo subito!"
 keywords: "edico, matematica, scienze, ipovedenti, ciechi, ausili"
 google-tracking-id:
