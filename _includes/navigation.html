@@ -19,8 +19,8 @@
                     </li>
 
                     {% for page in site.pages | sort: "title" %}
-                    {% if page.title and page.title != "" %}
 					{% unless page.url == "/index.html" or page.url == "/" %}
+					{% if page.title and page.title != "" %}
                     <li>
                         <a class="page-scroll" href="#{{ page.title }}">{{ page.title }}</a>
                     </li>
