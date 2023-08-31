@@ -15,11 +15,14 @@
   <body>
     <a id="skip-to-content" href="#content">Vai al contenuto.</a>
 
+	<a href="{{ '/' | absolute_url }}">
 	<header class="page-header" role="banner">
-    <a href="{{ '/' | absolute_url }}">
+    
 		<h1 class="project-name">{{site.title}}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+	</header>
 	</a>
+	<header class="page-header" role="navigation">
 	  <a href="https://edicoitalia.it/"><h2 class="project-tagline">Torna alla Home di EDICOItalia.it</h2></a>
     </header>
 
