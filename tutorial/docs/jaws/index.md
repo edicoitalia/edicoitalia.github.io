@@ -10,7 +10,7 @@ Lo screen reader JAWS è in grado di integrarsi in modo ottimale con EDICO, cos�
 In questo breve tutorial andremo a vedere quali opzioni configurare così da poter lavorare con JAWS e EDICO in modo ottimale.
 
 ## Versioni di JAWS supportate
-EDICO è in grado di lavorare con **la versione di JAWS 17 e successive**. Se si usano versioni precedenti di JAWS, potrebbe non essere disponibile un supporto braille di qualità durante l'uso di EDICO.
+EDICO Targato Italia è in grado di lavorare con **la versione di JAWS 2020 e successive**. Se si usano versioni precedenti di JAWS, potrebbe non essere disponibile un supporto braille di qualità durante l'uso di EDICO.
 
 ## Installazione degli script
 All'avvio di EDICO, qualora venga rilevata una versione di JAWS compatibile, apparirà un messaggio a schermo che propone l'installazione degli script necessari al buon funzionamento del programma.
