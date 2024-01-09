@@ -22,18 +22,18 @@ Ottenere Edico è molto semplice, basterà recarsi al seguente collegamento:
 
 Sul sito troverete moltissime informazioni utili, spostatevi alla sezione download e scaricate il software cliccando su "Scarica Edico Targato Italia!".
 
-![Schermata Homepage EdicoItalia](imgs/edico1png)  
+![Schermata Homepage EdicoItalia](imgs/edico1.png)  
 
 Una volta che il download terminerà, potreste ricevere alcuni messaggi di sicurezza a seconda del browser che state utilizzando.
 Nel caso più complesso, Microsoft Edge fornirà una serie di avvisi in quanto il file non viene scaricato di frequente.
 Sarà necessario perciò cliccare col tasto destro sul file e selezionare mantieni.
 
-![Schermata Edge avviso file non scaricato di frequente](imgs/edico2png)  
+![Schermata Edge avviso file non scaricato di frequente](imgs/edico2.png)  
 
 
 Successivamente, talvolta interviene anche la funzione di protezione di Windows chiamata SmartScreen, che fornisce un messaggio molto simile al precedente. Cliccare su "ulteriori dettagli" come mostrato in figura.
 
-![Schermata Smart Screen](imgs/edico3png)  
+![Schermata Smart Screen](imgs/edico3.png)  
 
 Cliccare poi su "conserva comunque".
 
