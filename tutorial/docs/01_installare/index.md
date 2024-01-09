@@ -13,30 +13,29 @@ Cominceremo con il download del software, procedendo poi con l'installazione fin
 Per funzionare, Edico ha bisogno di un sistema operativo uguale o superiore a Windows7. Generalmente, si consiglia di utilizzare Windows10 o Windows11 semplicemente in quanto anche i lettori di schermo quali NVDA o Jaws risultano molto più prestanti e aggiornati per le nuove versioni di Windows.
 Inoltre, risulta obbligatorio disporre dei diritti di amministratore nel momento in cui si esegue l'installazione.
 Non è possibile in alcun modo utilizzare Edico in versione portable.
-Il setup italiano di Edico è in grado di stabilire se l'utente abbia installato Jaws o NVDA nel computer, perciò aggiungerà script e addon automaticamente in base alla configurazione del PC.
+Il setup di Edico controllerà quale screen reader è in uso, dopodiché provvederà o a installare gli script per Jaws, oppure suggerirà il download del componente aggiuntivo relativo a NVDA.
 Tale controllo viene effettuato anche all'esecuzione di Edico, per cui se si installerà uno screen reader più avanti, la compatibilità sarà sempre garantita.
 
 ## Scaricare Edico
 Ottenere Edico è molto semplice, basterà recarsi al seguente collegamento:
-[HomePageEdico](http://www.irifor.eu/edico){:target="\_blank"}
+[HomePageEdicoItalia](http://www.edicoitalia.it){:target="\_blank"}
 
-Sul sito troverete alcune informazioni, scorrete la pagina fino a giungere quasi in fondo, al link "Scarica Edico" e fate click su di esso.
+Sul sito troverete moltissime informazioni utili, spostatevi alla sezione download e scaricate il software cliccando su "Scarica Edico Targato Italia!".
 
-![immagine](https://user-images.githubusercontent.com/16416536/193075008-547da160-3445-4a4b-ab92-9c3ab4e922fd.png)
+![Schermata Homepage EdicoItalia](imgs/edico1png)  
 
 Una volta che il download terminerà, potreste ricevere alcuni messaggi di sicurezza a seconda del browser che state utilizzando.
 Nel caso più complesso, Microsoft Edge fornirà una serie di avvisi in quanto il file non viene scaricato di frequente.
 Sarà necessario perciò cliccare col tasto destro sul file e selezionare mantieni.
 
-![immagine](https://user-images.githubusercontent.com/16416536/193112645-7cd7d523-8fd7-4e2e-ba86-f2008694b29f.png)
+![Schermata Edge avviso file non scaricato di frequente](imgs/edico2png)  
+
 
 Successivamente, talvolta interviene anche la funzione di protezione di Windows chiamata SmartScreen, che fornisce un messaggio molto simile al precedente. Cliccare su "ulteriori dettagli" come mostrato in figura.
 
-![immagine](https://user-images.githubusercontent.com/16416536/193113409-8cdee2ba-11d9-4356-8fab-3fb880b242bc.png)
+![Schermata Smart Screen](imgs/edico3png)  
 
 Cliccare poi su "conserva comunque".
-
-![immagine](https://user-images.githubusercontent.com/16416536/193113697-ce9bd916-91b8-4659-917f-e19c27175e40.png)
 
 Nel caso si stia utilizzando la tastiera e non il mouse, ricordiamo che nei browser si può utilizzare il tasto f6 per passare da una sezione all'altra (barra degli indirizzi, barra dei download, pagina web), e che per aprire l'elenco dei file appena scaricati è necessario premere ctrl-j.
 
