@@ -48,7 +48,7 @@ Mi comparirà una schermata, nella quale troverò la mia operazione già imposta
 
 ### 2. Divide il termine di grado più alto di $P(x)$ per il termine di grado più alto di $D(x)$
 
-Dividiamo $x^4$ per $x^2$, ottenendo $x^2$, che è il termine di grado più alto di e lo riportiamo sotto, in seconda riga, seconda colonna.
+Dividiamo $x^4$ per $x^2$, i termini di grado più alto dei due polinomi, ottenendo $x^2$. Lo riportiamo sotto, in seconda riga, seconda colonna.
 
 ![Schermata che mostra l'operazione](20240118121931.png)
 
@@ -79,12 +79,16 @@ Continua il processo finché il grado del resto è inferiore al grado di $D(x)$.
 
 Dal menu *Azioni* è possibile spostarsi velocemente al Quoziente, all'ultima riga del resto e al risultato.
 
+Notiamo anche che mano a mano che aggiungiamo quozienti nei vari passaggi, questi vengono automaticamente sommati nell'ultima riga (di risultato). Questo evita all'utente di doversi continuamente spostare nella prima riga per accodare i quozienti manualmente.
+
 Quando abbiamo terminato, scegliamo *Inserisci* o battiamo **INVIO** .
 
 
 ### 5. Scrivi il risultato finale
 
-Il risultato della divisione è $Q(x) = x^2 + 7$, e il resto è $R(x) = 24$.
+Il risultato della divisione, riportato in ultima riga, è $Q(x) = x^2 + 7$.
+
+Il resto è ciò che è riportato nella penultima riga, $R(x) = 24$.
 
 ![Schermata che mostra l'operazione](20240118123839.png)
 
