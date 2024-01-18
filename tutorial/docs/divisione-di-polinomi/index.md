@@ -59,7 +59,7 @@ Noto che in ultima riga il programma si preoccupa di riportarmi lo stesso numero
 Moltiplichiamo $x^2$ per $D(x)$ e sottraiamo il risultato da $P(x)$ (cambiamo di segno e facciamo la somma). 
 
 - Quindi quanto fa $x^2 \cdot (x^2-4) $ ? Facciamo i conti e fa $x^4-4x^2 $
-- Lo cambiamo di segno e diventa (-x^4+4x^2 $
+- Lo cambiamo di segno e diventa $ -x^4+4x^2 $
 
 Lo riportiamo nella seconda riga, prima colonna (resto):
 ![Schermata che mostra l'operazione](20240118123024.png)
