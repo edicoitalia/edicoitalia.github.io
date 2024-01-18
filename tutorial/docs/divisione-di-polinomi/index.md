@@ -7,7 +7,7 @@ layout: default
 La divisione dei polinomi è un'operazione comune in algebra. 
 In questo tutorial, spiegheremo come dividere i polinomi utilizzando EDICO.
 
-## Esempio: (x^4 + 3x^2 - 4) ÷ (x^2 - 4)
+## Esempio: $(x^4 + 3x^2 - 4) ÷ (x^2 - 4)$
 
 Per prima cosa identifico i due polinomi, $P(x)$ e $D(x)$, cioé il dividendo e il divisore e li scrivo.
 La divisione produce due risultati: un quoziente $Q(x)$ e un resto $R(x)$.
