@@ -84,9 +84,27 @@ Quando abbiamo terminato, scegliamo *Inserisci* o battiamo **INVIO** .
 
 ### 5. Scrivi il risultato finale
 
-Il risultato della divisione è $Q(x) = x^2 + 7$, e il resto è $R(x) = 24$. Quindi, $P(x) = D(x) \cdot Q(x) + R(x)$.
+Il risultato della divisione è $Q(x) = x^2 + 7$, e il resto è $R(x) = 24$.
 
 ![Schermata che mostra l'operazione](20240118123839.png)
+
+### Verifica:
+
+Sapendo quindi che $P(x) = D(x) \cdot Q(x) + R(x)$ , possiamo fare la verifica.
+
+
+$P\left(x\right)\;=\;D\left(x\right)\cdot Q\left(x\right)\;+\;R\left(x\right)$
+
+$P\left(x\right)\;=\;\left(x^{2}-4\right)\cdot \left(x^{2}+7\right)\;+\;24\;\;$
+
+$P\left(x\right)\;=\;\left(x^{4}-4x^{2}+7x^{2}-28\right)\;+\;24$
+
+$P\left(x\right)\;=\;\left(x^{4}+3x^{2}-28\right)\;+\;24$
+
+$P\left(x\right)\;=\;x^{4}+3x^{2}-4$
+
+Il $P(x)$ trovato corrisponde al nostro polinomio di partenza, Verificato. 
+
 
 ## Allegati
 [Gli esempi di questo tutorial sono disponibili già completati a questo link](esempio.edi)
