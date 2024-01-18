@@ -64,7 +64,7 @@ Moltiplichiamo $x^2$ per $D(x)$ e sottraiamo il risultato da $P(x)$ (cambiamo di
 Lo riportiamo nella seconda riga, prima colonna (resto):
 ![Schermata che mostra l'operazione](20240118123024.png)
 
-Aggiungiamo una riga, dal menu *Modifica*, *Nuova riga* o premendo CTRL+N.
+Aggiungiamo una riga, dal menu *Modifica*, *Aggiungi riga* o premendo CTRL+N.
 ![Schermata che mostra l'operazione](20240118123104.png)
 Calcoliamo il resto facendo le somme:
 ![Schermata che mostra l'operazione](20240118122640.png)
@@ -72,7 +72,7 @@ Calcoliamo il resto facendo le somme:
 
 ### 4. Ripeti il processo
 
-Aggiungiamo una riga, dal menu *Modifica*, *Nuova riga* o premendo CTRL+N.
+Aggiungiamo una riga, dal menu *Modifica*, *Aggiungi riga* o premendo CTRL+N.
 Continua il processo finché il grado del resto è inferiore al grado di $D(x)$. Ricordiamoci sempre di andare ad aggiungere i vari membri del quoziente in seconda colonna.
 
 ![Schermata che mostra l'operazione](20240118123713.png)
