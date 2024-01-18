@@ -1,4 +1,8 @@
-# EDICO e le divisioni dei polinomi
+---
+layout: default
+---
+
+# Le divisioni dei polinomi con EDICO
 
 La divisione dei polinomi è un'operazione comune in algebra. 
 In questo tutorial, spiegheremo come dividere i polinomi utilizzando EDICO.
