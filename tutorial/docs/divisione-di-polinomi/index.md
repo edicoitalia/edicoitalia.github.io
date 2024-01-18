@@ -73,7 +73,7 @@ Calcoliamo il resto facendo le somme:
 ### 4. Ripeti il processo
 
 Aggiungiamo una riga, dal menu *Modifica*, *Aggiungi riga* o premendo CTRL+N.
-Continua il processo finché il grado del resto è inferiore al grado di $D(x)$. Ricordiamoci sempre di andare ad aggiungere i vari membri del quoziente in seconda colonna.
+Continua il processo finché il grado del resto è inferiore al grado di $D(x)$. Ricordiamoci sempre di andare ad aggiungere i vari termini del quoziente in seconda colonna.
 
 ![Schermata che mostra l'operazione](20240118123713.png)
 
