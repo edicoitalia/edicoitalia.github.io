@@ -6,5 +6,6 @@
 - ...
 - [Da Word a EDICO... quasi in un click](/tutorial/docs/word)
 - [La divisione di polinomi](/tutorial/docs/divisione-di-polinomi)
+- [Discussione di disequazione fratta](/tutorial/docs/disequazioni/disequazioni.edi)
 - [Tabelle e matrici: le strutture bidimensionali](/tutorial/docs/matrici)
 - ...
