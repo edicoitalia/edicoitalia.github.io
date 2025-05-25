@@ -6,6 +6,8 @@ layout: default
 
 ## Premessa
 
+<img align="left" hspace="20" width="200" src="splash.jpg"> 
+
 Quella che vado a descrivere nel seguito non è un'operazione consigliata per un'installazione standard di EDICO. In due parole, se volete solo provare il programma o non avete esigenze immediate di impiego: *non fatelo*.
 
 Niente di pericoloso né tantomeno di illegittimo, sia chiaro. Tuttavia, il procedimento descritto richiede alcune operazioni piuttosto "macchinose", che comunque permetteranno, in conclusione, di installare EDICO.
