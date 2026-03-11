@@ -6,6 +6,9 @@ layout: default
 ----
 
 In questo semplice tutorial vedremo come installare EDICO in un sistema operativo Windows. Le operazioni risulteranno molto semplici ma è d'obbligo partire dall'inizio. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b5zAJMpqBXA?si=zExEgiY243YD4oBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Cominceremo con il download del software, procedendo poi con l'installazione fino all'attivazione della licenza gratuita.
 
 
