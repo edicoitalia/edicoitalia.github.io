@@ -55,28 +55,26 @@ Inoltre, è bene ricordare che questo controllo verrà effettuato ogni qualvolta
 
 A partire da Edico 2.0.0.16 non è più necessaria alcuna attivazione e l'invio di email. Lasciamo le istruzioni qui sotto per storico, ma non dovrebbero più essere richieste ed utilizzate se impiegate la più recente Edico Targato Italia. EDICO lavora senza alcuna registrazione o attivazione.
 
+~~Una volta installato Edico, è giunto il momento di eseguirlo.
+La prima videata mostrerà le novità dell'ultima versione, ma giacché per voi probabilmente è la prima volta, tutto risulterà nuovo!~~
+~~Andate avanti e vi verrà chiesto di attivare la licenza.~~
+~~Edico è completamente gratuito, ma per funzionare c'è bisogno di una licenza legata al seriale del computer in uso, rilasciata dalla Once, l'associazione non vedenti e ipovedenti spagnola.~~
+~~Se non volete attivare la licenza, è possibile usare Edico in modalità demo per sei volte tramite l'apposito pulsante.~~
 
-~~
-Una volta installato Edico, è giunto il momento di eseguirlo.
-La prima videata mostrerà le novità dell'ultima versione, ma giacché per voi probabilmente è la prima volta, tutto risulterà nuovo!
-Andate avanti e vi verrà chiesto di attivare la licenza.
-Edico è completamente gratuito, ma per funzionare c'è bisogno di una licenza legata al seriale del computer in uso, rilasciata dalla Once, l'associazione non vedenti e ipovedenti spagnola.
-Se non volete attivare la licenza, è possibile usare Edico in modalità demo per sei volte tramite l'apposito pulsante.
+~~Nella finestra relativa alla licenza, il cursore viene posizionato su un campo editazione all'interno del quale è presente il vostro codice pc.~~
+~~Tramite la pressione del tasto tab possiamo spostarci sul pulsante "copia", per copiare il codice negli appunti, oppure sul pulsante "richiedi via email" che è l'opzione che consigliamo purché abbiate un software di posta elettronica installato.~~
+~~Una terza pressione del tasto tab porterà al campo editazione dove incollare il codice ricevuto via email.~~
 
-Nella finestra relativa alla licenza, il cursore viene posizionato su un campo editazione all'interno del quale è presente il vostro codice pc.
-Tramite la pressione del tasto tab possiamo spostarci sul pulsante "copia", per copiare il codice negli appunti, oppure sul pulsante "richiedi via email" che è l'opzione che consigliamo purché abbiate un software di posta elettronica installato.
-Una terza pressione del tasto tab porterà al campo editazione dove incollare il codice ricevuto via email.
+~~Una volta incollato il codice sarà possibile attivare Edico cliccando sull'apposito pulsante.~~
 
-Una volta incollato il codice sarà possibile attivare Edico cliccando sull'apposito pulsante.
+~~Tenete presente che l'email autogenerata è per ovvie ragioni in spagnolo e conviene rimanga in quella lingua;  nel caso in cui non aveste un programma di posta elettronica installato, dovete scrivere a:~~
 
-Tenete presente che l'email autogenerata è per ovvie ragioni in spagnolo e conviene rimanga in quella lingua;  nel caso in cui non aveste un programma di posta elettronica installato, dovete scrivere a:
+~~saucti@once.es~~
 
-saucti@once.es
+~~incollando poi nel corpo del messaggio il vostro codice pc.~~
 
-incollando poi nel corpo del messaggio il vostro codice pc.
+~~Ad ogni modo l'attivazione è completamente guidata, i tempi sono piuttosto rapidi, alcuni utenti hanno ricevuto l'attivazione dopo qualche ora, qualcuno dopo 24 ore, ma generalmente il servizio è di ottima qualità.~~
 
-Ad ogni modo l'attivazione è completamente guidata, i tempi sono piuttosto rapidi, alcuni utenti hanno ricevuto l'attivazione dopo qualche ora, qualcuno dopo 24 ore, ma generalmente il servizio è di ottima qualità.
-~~
 
 Questo tutorial termina qui, ora siete pronti ad iniziare ad usare Edico!
 
