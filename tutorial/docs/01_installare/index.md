@@ -53,6 +53,10 @@ Inoltre, è bene ricordare che questo controllo verrà effettuato ogni qualvolta
 
 ## Come attivare la licenza
 
+A partire da Edico 2.0.0.16 non è più necessaria alcuna attivazione e l'invio di email. Lasciamo le istruzioni qui sotto per storico, ma non dovrebbero più essere richieste ed utilizzate se impiegate la più recente Edico Targato Italia. EDICO lavora senza alcuna registrazione o attivazione.
+
+
+~~
 Una volta installato Edico, è giunto il momento di eseguirlo.
 La prima videata mostrerà le novità dell'ultima versione, ma giacché per voi probabilmente è la prima volta, tutto risulterà nuovo!
 Andate avanti e vi verrà chiesto di attivare la licenza.
@@ -72,6 +76,7 @@ saucti@once.es
 incollando poi nel corpo del messaggio il vostro codice pc.
 
 Ad ogni modo l'attivazione è completamente guidata, i tempi sono piuttosto rapidi, alcuni utenti hanno ricevuto l'attivazione dopo qualche ora, qualcuno dopo 24 ore, ma generalmente il servizio è di ottima qualità.
+~~
 
 Questo tutorial termina qui, ora siete pronti ad iniziare ad usare Edico!
 
